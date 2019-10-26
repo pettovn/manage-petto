@@ -1,0 +1,139 @@
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\appsettings.Development.json
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\appsettings.json
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\Data\ORIGIN_PLACE.json
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\Properties\launchSettings.json
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\PET MANAGEMENT.exe
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\PET MANAGEMENT.deps.json
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\PET MANAGEMENT.runtimeconfig.json
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\PET MANAGEMENT.runtimeconfig.dev.json
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\PET MANAGEMENT.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\PET MANAGEMENT.pdb
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\PET MANAGEMENT.Views.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\PET MANAGEMENT.Views.pdb
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\AdvancedStringBuilder.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\JavaScriptEngineSwitcher.Core.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\JSPool.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.Razor.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\Microsoft.Extensions.DependencyModel.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\Microsoft.Identity.Client.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\dotnet-aspnet-codegenerator-design.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\Newtonsoft.Json.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\NuGet.Frameworks.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\React.AspNet.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\React.AspNet.Middleware.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\React.Core.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\System.Composition.AttributedModel.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\System.Composition.Convention.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\System.Composition.Hosting.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\System.Composition.Runtime.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\System.Composition.TypedParts.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\System.Runtime.Caching.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\ru-ru\JavaScriptEngineSwitcher.Core.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\runtimes\win-arm64\native\sni.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\runtimes\win-x64\native\sni.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\runtimes\win-x86\native\sni.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\bin\Release\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\obj\Release\netcoreapp3.0\staticwebassets\PET MANAGEMENT.StaticWebAssets.Manifest.cache
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\obj\Release\netcoreapp3.0\staticwebassets\PET MANAGEMENT.StaticWebAssets.xml
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\obj\Release\netcoreapp3.0\PET MANAGEMENT.MvcApplicationPartsAssemblyInfo.cs
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\obj\Release\netcoreapp3.0\PET MANAGEMENT.MvcApplicationPartsAssemblyInfo.cache
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\obj\Release\netcoreapp3.0\PET MANAGEMENT.RazorAssemblyInfo.cache
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\obj\Release\netcoreapp3.0\PET MANAGEMENT.RazorAssemblyInfo.cs
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\obj\Release\netcoreapp3.0\PET MANAGEMENT.AssemblyInfoInputs.cache
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\obj\Release\netcoreapp3.0\PET MANAGEMENT.AssemblyInfo.cs
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\obj\Release\netcoreapp3.0\PET MANAGEMENT.TagHelpers.input.cache
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\obj\Release\netcoreapp3.0\PET MANAGEMENT.TagHelpers.output.cache
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\obj\Release\netcoreapp3.0\PET MANAGEMENT.RazorCoreGenerate.cache
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\obj\Release\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\obj\Release\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\obj\Release\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\obj\Release\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\obj\Release\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\obj\Release\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\obj\Release\netcoreapp3.0\PET MANAGEMENT.RazorTargetAssemblyInfo.cache
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\obj\Release\netcoreapp3.0\PET MANAGEMENT.RazorTargetAssemblyInfo.cs
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\obj\Release\netcoreapp3.0\PET MANAGEMENT.Views.pdb
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\obj\Release\netcoreapp3.0\PET MANAGEMENT.csproj.CopyComplete
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\obj\Release\netcoreapp3.0\PET MANAGEMENT.dll
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\obj\Release\netcoreapp3.0\PET MANAGEMENT.pdb
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\obj\Release\netcoreapp3.0\PET MANAGEMENT.csprojAssemblyReference.cache
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\obj\Release\netcoreapp3.0\Razor\Views\Account\Register.cshtml.g.cs
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\obj\Release\netcoreapp3.0\Razor\Views\Account\Login.cshtml.g.cs
+D:\WORK\PROJECT\PET MANAGEMENT\PET MANAGEMENT\obj\Release\netcoreapp3.0\Razor\Views\Account\ForgotPassword.cshtml.g.cs
